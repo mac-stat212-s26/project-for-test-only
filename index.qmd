@@ -1,0 +1,10 @@
+---
+title: "Report"
+---
+
+Your report goes here.
+
+```{r}
+# a test code chunk
+```
+
